@@ -1,6 +1,13 @@
 # Ad-Hoc SQL Analysis for Consumer Goods
 
+
+![Screenshot 2025-02-25 163731](https://github.com/user-attachments/assets/e96d21ec-e95a-4ae4-a0e3-16b81e3e0aff)
+
+
 Welcome to the **Ad-Hoc SQL Analysis** project! This repository showcases a series of SQL queries, insights, and presentation materials focused on Atliq Hardware, a fictitious computer hardware manufacturer. The main objective is to demonstrate how ad-hoc SQL queries can quickly deliver valuable insights for business stakeholders.
+
+
+
 
 ---
 
