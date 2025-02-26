@@ -38,7 +38,7 @@ Below are the key files referenced in this project:
 1. **[AD-HOC-REQUESTS.pdf](https://github.com/prudhvi1029/Ad-Hoc-SQL-Analysis-for-Consumer-Goods/blob/main/ad-hoc-requests.pdf)**  
    - Contains 10 business queries (ad-hoc requests) that drive the SQL analyses.
 
-2. **`Metadata.txt`**  
+2. **[MetaData.txt](https://github.com/prudhvi1029/Ad-Hoc-SQL-Analysis-for-Consumer-Goods/blob/main/Metadata.txt)**
    - A data dictionary describing each column in the six main tables:
      - `dim_customer`
      - `dim_product`
@@ -73,7 +73,7 @@ The Atliq Hardware dataset consists of the following **six key tables**:
 6. **`fact_sales_monthly`**  
    - Monthly sales data (date, sold quantity, product code, customer code, fiscal year).
 
-For more details on specific columns, see **`Metadata.txt`**.
+For more details on specific columns, see  **[MetaData.txt](https://github.com/prudhvi1029/Ad-Hoc-SQL-Analysis-for-Consumer-Goods/blob/main/Metadata.txt)**
 
 ---
 
