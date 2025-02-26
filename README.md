@@ -125,6 +125,6 @@ Contributions, suggestions, and improvements are welcome. Feel free to open an i
 If you find it helpful, consider giving a star ⭐ on GitHub to show your support.
 
 
-Further details and visuals are found in **SQL consumer goods AD-HOC analysis.pdf**.![Project Logo](./images/logo.png)
+Further details and visuals are found in **SQL consumer goods AD-HOC analysis.pdf**.![Project Logo](https://github.com/prudhvi1029/Ad-Hoc-SQL-Analysis-for-Consumer-Goods/blob/main/SQL%20consumer%20goods%20AD-HOC%20analysis.pdf)
 
 
