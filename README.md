@@ -35,7 +35,7 @@ Atliq Hardware is a hypothetical company manufacturing computer hardware product
 
 Below are the key files referenced in this project:
 
-1. **`ad-hoc-requests.pdf`**  
+1. **[AD-HOC-REQUESTS.pdf](https://github.com/prudhvi1029/Ad-Hoc-SQL-Analysis-for-Consumer-Goods/blob/main/ad-hoc-requests.pdf)**  
    - Contains 10 business queries (ad-hoc requests) that drive the SQL analyses.
 
 2. **`Metadata.txt`**  
@@ -47,7 +47,7 @@ Below are the key files referenced in this project:
      - `fact_pre_invoice_deductions`
      - `fact_sales_monthly`
 
-3. **`SQL consumer goods AD-HOC analysis.pdf`**  
+3. **[SQL consumer goods AD-HOC analysis.pdf](https://github.com/prudhvi1029/Ad-Hoc-SQL-Analysis-for-Consumer-Goods/blob/main/SQL%20consumer%20goods%20AD-HOC%20analysis.pdf)**
    - A detailed overview of how each question was addressed with SQL, including insights and visual breakdowns.
 ---
 
@@ -91,7 +91,7 @@ Among the ad-hoc requests analyzed are:
 8. Sales **channel contribution** (e.g., Retailer, Direct, Distributor) in 2021.  
 9. **Top 3 products** in each division by sold quantity in 2021.  
 
-See **`ad-hoc-requests.pdf`** for the complete list of questions.
+See **[ad-hoc-requests.pdf](https://github.com/prudhvi1029/Ad-Hoc-SQL-Analysis-for-Consumer-Goods/blob/main/ad-hoc-requests.pdf)** for the complete list of questions.
 
 ---
 
